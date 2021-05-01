@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="algrilithmeC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/c++project/algrilithmeC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algrilithmeC">
+				<Option output="D:/c++project/algrilithmeC/cmake-build-debug/algrilithmeC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++project/algrilithmeC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 algrilithmeC"/>
+					<CompileFile command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="algrilithmeC/fast">
+				<Option output="D:/c++project/algrilithmeC/cmake-build-debug/algrilithmeC.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/c++project/algrilithmeC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\mingw64\mingw\mingw\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 algrilithmeC/fast"/>
+					<CompileFile command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/c++project/algrilithmeC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/c++project/algrilithmeC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/MinGW/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/c++project/algrilithmeC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/c++project/algrilithmeC/main.c">
+			<Option target="algrilithmeC"/>
+		</Unit>
+		<Unit filename="D:/c++project/algrilithmeC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

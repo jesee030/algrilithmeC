@@ -1,0 +1,11 @@
+"D:\clion\clion2020\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\c++project\algrilithmeC
+-- The C compiler identification is GNU 9.2.0
+-- Check for working C compiler: D:/mingw64/MinGW/MinGW/MinGW/bin/gcc.exe
+-- Check for working C compiler: D:/mingw64/MinGW/MinGW/MinGW/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/c++project/algrilithmeC/cmake-build-debug
